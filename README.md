@@ -55,6 +55,8 @@ Sistem ini mengelola data mahasiswa sebagai peminjam serta daftar barang yang da
    ```bash
    java Main
 
+---
+
 📚 Contoh Barang yang Bisa Dipinjam
 
 Proyektor
@@ -72,6 +74,8 @@ Kabel LAN
 Pointer Presentasi
 
 Speaker Portable
+
+---
 
 👨‍🎓 Pengembang
 
