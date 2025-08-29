@@ -1,4 +1,4 @@
-📘 Sistem Peminjaman Barang Akademik
+*** 📘 Sistem Peminjaman Barang Akademik ***
 
 📌 Deskripsi
 
